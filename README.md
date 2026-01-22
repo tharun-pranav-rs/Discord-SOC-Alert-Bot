@@ -1,7 +1,7 @@
 
 # 🛡️ Discord SOC Alert Bot
 
-A lightweight, automated Python agent that monitors critical web infrastructure and reports outages in real-time to a Discord Security Operations Center (SOC) channel via Webhooks.
+A lightweight, automated Python agent that monitors critical web infrastructure and reports outages in real-time to a Discord Security Operations Center (SOC) channel via Webhooks. 
 
 ![Project Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue)
